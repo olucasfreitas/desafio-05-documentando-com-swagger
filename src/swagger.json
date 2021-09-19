@@ -1,0 +1,11 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Challenge Documentation",
+    "description": "This is an api created as a challenge for a bootcamp",
+    "version": "1.0.0",
+    "contact": {
+      "email": "lucasdasilvafreitas090@gmail.com"
+    }
+  }
+}
