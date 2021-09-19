@@ -84,7 +84,7 @@
                     "error": "string"
                   },
                   "example": {
-                    "error": "Only admins can access the list."
+                    "error": "Email already registered"
                   }
                 }
               }
@@ -161,7 +161,7 @@
                     "error": "string"
                   },
                   "example": {
-                    "error": "Only admins can access the list."
+                    "error": "Only admins can access the list or User not found"
                   }
                 }
               }
